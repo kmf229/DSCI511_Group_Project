@@ -1,0 +1,20 @@
+symbol, AMZN
+companyName, Amazon.com, Inc.
+exchange, NASDAQ
+industry, Internet Retail
+website, http://www.amazon.com
+description, Amazon.com, Inc. engages in the provision of online retail shopping services. It operates through the following business segments: North America, International, and Amazon Web Services (AWS). The North America segment includes retail sales of consumer products and subscriptions through North America-focused websites such as www.amazon.com and www.amazon.ca. The International segment offers retail sales of consumer products and subscriptions through internationally-focused websites. The Amazon Web Services segment involves in the global sales of compute, storage, database, and AWS service offerings for start-ups, enterprises, government agencies, and academic institutions. The company was founded by Jeffrey P. Bezos in July 1994 and is headquartered in Seattle, WA.
+CEO, Jeffrey P. Bezos
+securityName, Amazon.com, Inc.
+issueType, cs
+sector, Retail Trade
+primarySicCode, 5961
+employees, 647500
+tags, ['Retail Trade', 'Internet Retail']
+address, 410 Terry Avenue North
+address2, None
+state, WA
+city, Seattle
+zip, 98109-5210
+country, US
+phone, 1.206.266.1000

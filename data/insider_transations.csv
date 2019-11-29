@@ -1,0 +1,551 @@
+effectiveDate,fullName,reportedTitle,tranShares,tranPrice,tranValue,directIndirect,tranCode
+2019-11-15,Brian T. Olsavsky,Senior Vice President and CFO,-285,,,D,M
+2019-11-15,Brian T. Olsavsky,Senior Vice President and CFO,-1480,,,D,M
+2019-11-15,Brian T. Olsavsky,Senior Vice President and CFO,-1265,1760.05,-2226463.25,D,S
+2019-11-15,Brian T. Olsavsky,Senior Vice President and CFO,285,0.0,0.0,D,M
+2019-11-15,Brian T. Olsavsky,Senior Vice President and CFO,1480,0.0,0.0,D,M
+2019-11-15,Daniel P. Huttenlocher,Director,-377,,,D,M
+2019-11-15,Daniel P. Huttenlocher,Director,377,0.0,0.0,D,M
+2019-11-15,Shelley L. Reynolds,Vice President,-61,,,D,M
+2019-11-15,Shelley L. Reynolds,Vice President,-318,,,D,M
+2019-11-15,Shelley L. Reynolds,Vice President,-20,1760.82,-35216.4,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-10,1756.87,-17568.7,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-20,1755.4,-35108.0,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-30,1753.66,-52609.8,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-40,1752.89,-70115.6,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-30,1750.69,-52520.7,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-110,1749.3,-192423.0,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-69,1747.93,-120607.17,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-40,1746.89,-69875.6,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,-10,1745.46,-17454.6,D,S
+2019-11-15,Shelley L. Reynolds,Vice President,61,0.0,0.0,D,M
+2019-11-15,Shelley L. Reynolds,Vice President,318,0.0,0.0,D,M
+2019-11-15,Thomas O. Ryder,Director,-359,,,D,M
+2019-11-15,Thomas O. Ryder,Director,359,0.0,0.0,D,M
+2019-11-15,Jonathan Jake Rubinstein,Director,-359,,,D,M
+2019-11-15,Jonathan Jake Rubinstein,Director,359,0.0,0.0,D,M
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-4500,,,D,M
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-864,,,D,M
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-2709,,,D,M
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1733.0,-173300.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1735.5,-173550.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-575,1737.77,-999217.75,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1740.0,-348000.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1746.01,-174601.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-579,1747.03,-1011530.37,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-421,1747.51,-735701.71,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-600,1748.95,-1049370.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-500,1750.3,-875150.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1751.48,-525444.0,I,S
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,4500,0.0,0.0,I,M
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,864,0.0,0.0,I,M
+2019-11-15,Jeffrey A. Wilke,CEO Worldwide Consumer,2709,0.0,0.0,I,M
+2019-11-15,Patricia Q. Stonesifer,Director,-359,,,D,M
+2019-11-15,Patricia Q. Stonesifer,Director,359,0.0,0.0,D,M
+2019-11-15,David A. Zapolsky,Senior Vice President,-714,,,D,M
+2019-11-15,David A. Zapolsky,Senior Vice President,-1051,,,D,M
+2019-11-15,David A. Zapolsky,Senior Vice President,-222,0.0,0.0,D,G
+2019-11-15,David A. Zapolsky,Senior Vice President,-100,1759.34,-175934.0,D,S
+2019-11-15,David A. Zapolsky,Senior Vice President,-100,1756.86,-175686.0,D,S
+2019-11-15,David A. Zapolsky,Senior Vice President,-100,1750.9,-175090.0,D,S
+2019-11-15,David A. Zapolsky,Senior Vice President,-100,1749.66,-174966.0,D,S
+2019-11-15,David A. Zapolsky,Senior Vice President,-380,1748.08,-664270.4,D,S
+2019-11-15,David A. Zapolsky,Senior Vice President,-100,1746.2,-174620.0,D,S
+2019-11-15,David A. Zapolsky,Senior Vice President,714,0.0,0.0,D,M
+2019-11-15,David A. Zapolsky,Senior Vice President,1051,0.0,0.0,D,M
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-4500,,,D,M
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-2434,,,D,M
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-1139,,,D,M
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-700,1759.86,-1231902.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1756.84,-351368.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1753.95,-350790.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1752.8,-175280.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-300,1752.11,-525633.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-500,1749.76,-874880.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-601,1748.47,-1050830.47,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-429,1747.52,-749686.08,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1745.9,-349180.0,D,S
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,4500,0.0,0.0,D,M
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,2434,0.0,0.0,D,M
+2019-11-15,Andrew R. Jassy,CEO Amazon Web Services,1139,0.0,0.0,D,M
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-1881,,,D,M
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-1692,,,D,M
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-800,1759.97,-1407976.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-100,1756.87,-175687.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-400,1753.89,-701556.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-300,1752.96,-525888.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-100,1751.26,-175126.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-500,1749.47,-874735.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-719,1748.67,-1257293.73,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-554,1747.09,-967887.86,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,-100,1745.64,-174564.0,D,S
+2019-11-15,Jeff M. Blackburn,Senior Vice President,1881,0.0,0.0,D,M
+2019-11-15,Jeff M. Blackburn,Senior Vice President,1692,0.0,0.0,D,M
+2019-11-13,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-471,0.0,0.0,D,G
+2019-11-12,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1970,0.0,0.0,D,G
+2019-10-28,Judith A. McGrath,Director,-304,1749.91,-531972.64,D,S
+2019-10-04,Indra Krishnamurthy Nooyi,Director,100,1726.06,172606.0,D,P
+2019-09-12,Daniel P. Huttenlocher,Director,516,,,D,A
+2019-09-12,Thomas O. Ryder,Director,516,,,D,A
+2019-09-12,Jonathan Jake Rubinstein,Director,516,,,D,A
+2019-09-12,Jeffrey A. Wilke,CEO Worldwide Consumer,-1200,1846.48,-2215776.0,I,S
+2019-09-12,Jeffrey A. Wilke,CEO Worldwide Consumer,-1000,1847.29,-1847290.0,I,S
+2019-09-12,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1848.53,-554559.0,I,S
+2019-09-12,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1850.04,-185004.0,I,S
+2019-09-12,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1852.01,-370402.0,I,S
+2019-09-12,Patricia Q. Stonesifer,Director,516,,,D,A
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1781.94,-178194.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1786.59,-178659.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1787.91,-536373.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-400,1789.63,-715852.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1791.13,-537339.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1791.97,-358394.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1793.46,-538038.0,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-250,1795.23,-448807.5,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-350,1796.11,-628638.5,I,S
+2019-09-03,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1799.81,-359962.0,I,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-203,1797.6,-364912.8,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-900,1796.72,-1617048.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-700,1795.79,-1257053.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-1100,1794.69,-1974159.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-700,1793.69,-1255583.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-955,1792.34,-1711684.7,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-475,1790.78,-850620.5,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-400,1789.07,-715628.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-300,1787.29,-536187.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-300,1784.98,-535494.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-700,1782.75,-1247925.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-100,1781.05,-178105.0,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-211,1779.79,-375535.69,D,S
+2019-08-29,Jeff M. Blackburn,Senior Vice President,-100,1778.15,-177815.0,D,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1749.92,-174992.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1751.19,-175119.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1752.97,-175297.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-104,1754.42,-182459.68,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-296,1755.12,-519515.52,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1756.88,-175688.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1758.3,-527490.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1759.68,-351936.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-600,1761.14,-1056684.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1762.54,-352508.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1763.42,-352684.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1765.57,-176557.0,I,S
+2019-08-26,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1766.52,-176652.0,I,S
+2019-08-20,Jonathan Jake Rubinstein,Director,-277,0.0,0.0,D,G
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1804.48,-180448.0,I,S
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1805.26,-180526.0,I,S
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1806.06,-361212.0,I,S
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1808.25,-180825.0,I,S
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1811.35,-362270.0,I,S
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1812.68,-181268.0,I,S
+2019-08-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1813.28,-362656.0,I,S
+2019-08-15,Brian T. Olsavsky,Senior Vice President and CFO,-285,,,D,M
+2019-08-15,Brian T. Olsavsky,Senior Vice President and CFO,-1480,,,D,M
+2019-08-15,Brian T. Olsavsky,Senior Vice President and CFO,-1765,1783.0,-3146995.0,D,S
+2019-08-15,Brian T. Olsavsky,Senior Vice President and CFO,285,0.0,0.0,D,M
+2019-08-15,Brian T. Olsavsky,Senior Vice President and CFO,1480,0.0,0.0,D,M
+2019-08-15,Shelley L. Reynolds,Vice President,-61,,,D,M
+2019-08-15,Shelley L. Reynolds,Vice President,-318,,,D,M
+2019-08-15,Shelley L. Reynolds,Vice President,-10,1785.25,-17852.5,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-20,1783.52,-35670.4,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-10,1782.0,-17820.0,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-20,1780.88,-35617.6,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-49,1778.62,-87152.38,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-40,1777.53,-71101.2,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-40,1776.26,-71050.4,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-20,1774.72,-35494.4,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-40,1773.59,-70943.6,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-20,1772.23,-35444.6,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-30,1771.48,-53144.4,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-50,1770.58,-88529.0,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,-30,1768.96,-53068.8,D,S
+2019-08-15,Shelley L. Reynolds,Vice President,61,0.0,0.0,D,M
+2019-08-15,Shelley L. Reynolds,Vice President,318,0.0,0.0,D,M
+2019-08-15,Judith A. McGrath,Director,-304,,,D,M
+2019-08-15,Judith A. McGrath,Director,304,0.0,0.0,D,M
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-4500,,,D,M
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-864,,,D,M
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-2708,,,D,M
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1765.07,-353014.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1766.36,-176636.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-500,1769.32,-884660.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1771.59,-531477.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1772.68,-531804.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1774.09,-177409.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-201,1775.07,-356789.07,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-784,1775.76,-1392195.84,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-216,1777.16,-383866.56,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-474,1778.05,-842795.7,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1779.54,-177954.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1780.13,-356026.0,I,S
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,4500,0.0,0.0,I,M
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,864,0.0,0.0,I,M
+2019-08-15,Jeffrey A. Wilke,CEO Worldwide Consumer,2708,0.0,0.0,I,M
+2019-08-15,David A. Zapolsky,Senior Vice President,-713,,,D,M
+2019-08-15,David A. Zapolsky,Senior Vice President,-1051,,,D,M
+2019-08-15,David A. Zapolsky,Senior Vice President,-100,1787.58,-178758.0,D,S
+2019-08-15,David A. Zapolsky,Senior Vice President,-180,1781.09,-320596.2,D,S
+2019-08-15,David A. Zapolsky,Senior Vice President,-200,1779.94,-355988.0,D,S
+2019-08-15,David A. Zapolsky,Senior Vice President,-100,1777.3,-177730.0,D,S
+2019-08-15,David A. Zapolsky,Senior Vice President,-200,1768.62,-353724.0,D,S
+2019-08-15,David A. Zapolsky,Senior Vice President,-100,1767.3,-176730.0,D,S
+2019-08-15,David A. Zapolsky,Senior Vice President,713,0.0,0.0,D,M
+2019-08-15,David A. Zapolsky,Senior Vice President,1051,0.0,0.0,D,M
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-4500,,,D,M
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-2434,,,D,M
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-1139,,,D,M
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1787.05,-178705.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-300,1782.69,-534807.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-328,1780.19,-583902.32,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-301,1778.61,-535361.61,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-1,1777.2,-1777.2,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1776.36,-355272.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-300,1775.54,-532662.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-300,1774.03,-532209.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-500,1772.81,-886405.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-300,1771.48,-531444.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-400,1770.37,-708148.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1768.36,-353672.0,D,S
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,4500,0.0,0.0,D,M
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,2434,0.0,0.0,D,M
+2019-08-15,Andrew R. Jassy,CEO Amazon Web Services,1139,0.0,0.0,D,M
+2019-08-15,Jeff M. Blackburn,Senior Vice President,-1880,,,D,M
+2019-08-15,Jeff M. Blackburn,Senior Vice President,-1692,,,D,M
+2019-08-15,Jeff M. Blackburn,Senior Vice President,1880,0.0,0.0,D,M
+2019-08-15,Jeff M. Blackburn,Senior Vice President,1692,0.0,0.0,D,M
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-200,1846.02,-369204.0,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-14636,1844.16,-26991125.76,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3021,1842.58,-5566434.18,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4159,1841.59,-7659172.81,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-450,1840.49,-828220.5,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1600,1838.65,-2941840.0,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6878,1837.71,-12639769.38,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4780,1836.51,-8778517.8,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1777,1834.72,-3260297.44,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6351,1833.72,-11645955.72,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-700,1832.0,-1282400.0,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2451,1831.2,-4488271.2,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4067,1830.11,-7443057.37,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4891,1829.01,-8945687.91,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-7158,1828.18,-13086112.44,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-9098,1827.12,-16623137.76,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3782,1826.0,-6905932.0,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6955,1825.15,-12693918.25,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-9445,1823.98,-17227491.1,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8558,1822.83,-15599779.14,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-5240,1822.01,-9547332.4,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-5202,1821.01,-9472894.02,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6111,1819.98,-11121897.78,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6561,1818.88,-11933671.68,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-9878,1817.84,-17956623.52,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-12874,1816.82,-23389740.68,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-11080,1815.87,-20119839.6,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-13451,1814.87,-24411816.37,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8039,1813.76,-14580816.64,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-12394,1812.84,-22468338.96,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8889,1811.78,-16104912.42,D,S
+2019-08-02,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8460,1810.86,-15319875.6,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-268,0.0,0.0,D,G
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-800,1897.12,-1517696.0,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2599,1896.27,-4928405.73,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3308,1895.32,-6269718.56,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-19779,1894.08,-37463008.32,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-22971,1893.19,-43488467.49,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-19620,1892.2,-37124964.0,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-21394,1891.2,-40460332.8,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-17003,1890.28,-32140430.84,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-16393,1889.14,-30968672.02,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-20118,1888.11,-37984996.98,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-24558,1887.1,-46343401.8,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-29978,1886.12,-56542105.36,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-16219,1885.11,-30574599.09,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-19980,1884.14,-37645117.2,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-5030,1883.09,-9471942.7,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-14159,1882.13,-26649078.67,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-5327,1881.05,-10020353.35,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-10056,1879.97,-18904978.32,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8801,1878.95,-16536638.95,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8701,1878.26,-16342740.26,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6238,1876.92,-11708226.96,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-7690,1875.38,-14421672.2,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4292,1874.58,-8045697.36,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2702,1872.84,-5060413.68,D,S
+2019-08-01,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-15000,1871.2,-28068000.0,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1372,1899.55,-2606182.6,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-20581,1898.11,-39065001.91,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3734,1897.4,-7084891.6,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-12876,1896.56,-24420106.56,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-18576,1895.36,-35208207.36,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-19340,1894.39,-36637502.6,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-15139,1893.47,-28665242.33,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-25092,1892.39,-47483849.88,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-21483,1891.44,-40633805.52,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-34887,1890.46,-65952478.02,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-35887,1889.45,-67806692.15,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-43327,1888.5,-81823039.5,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-34196,1887.48,-64544266.08,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-15448,1886.66,-29145123.68,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-11917,1885.45,-22468907.65,D,S
+2019-07-31,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8861,1884.39,-16697579.79,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1849,1909.21,-3530129.29,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3996,1907.67,-7623049.32,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-946,1906.58,-1803624.68,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4219,1905.56,-8039557.64,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-20733,1904.68,-39489730.44,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-18595,1903.75,-35400231.25,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-14512,1902.72,-27612272.64,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-16187,1901.77,-30783950.99,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8309,1900.73,-15793165.57,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-11178,1899.81,-21236076.18,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-34036,1898.59,-64620409.24,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-23808,1897.63,-45178775.04,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-39435,1896.69,-74795970.15,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-31376,1895.7,-59479483.2,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-17129,1894.77,-32455515.33,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-23312,1893.69,-44145701.28,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-13473,1892.65,-25499673.45,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-10953,1891.7,-20719790.1,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-20363,1890.46,-38495436.98,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1676,1889.17,-3166248.92,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1276,1887.31,-2408207.56,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-100,1885.6,-188560.0,D,S
+2019-07-30,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-5255,1884.87,-9904991.85,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2518,1931.39,-4863240.02,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-15520,1929.86,-29951427.2,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2527,1925.81,-4866521.87,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1949,1922.28,-3746523.72,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2824,1921.18,-5425412.32,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4994,1920.04,-9588679.76,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-10491,1919.04,-20132648.64,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-8402,1918.13,-16116128.26,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3005,1916.82,-5760044.1,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2162,1915.26,-4140792.12,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2043,1913.79,-3909872.97,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-1657,1912.61,-3169194.77,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4091,1911.04,-7818064.64,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-3498,1910.17,-6681774.66,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6049,1908.88,-11546815.12,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4345,1907.85,-8289608.25,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-13350,1906.61,-25453243.5,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-24017,1905.62,-45767275.54,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-30454,1904.78,-58008170.12,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-23912,1903.75,-45522470.0,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-16330,1902.75,-31071907.5,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-7004,1901.68,-13319366.72,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-12292,1900.65,-23362789.8,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-21058,1899.65,-40002829.7,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-27439,1898.64,-52096782.96,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-18316,1897.64,-34757174.24,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-13994,1896.74,-26542979.56,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6229,1895.58,-11807567.82,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-11666,1894.48,-22101003.68,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-6262,1893.36,-11856220.32,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-11782,1892.55,-22298024.1,D,S
+2019-07-29,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-2536,1891.22,-4796133.92,D,S
+2019-07-10,David A. Zapolsky,Senior Vice President,-763,2000.0,-1526000.0,D,S
+2019-07-10,Andrew R. Jassy,CEO Amazon Web Services,-7308,2000.0,-14616000.0,D,S
+2019-05-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1849.28,-184928.0,I,S
+2019-05-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1855.01,-371002.0,I,S
+2019-05-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1856.91,-371382.0,I,S
+2019-05-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1860.44,-372088.0,I,S
+2019-05-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1862.21,-186221.0,I,S
+2019-05-20,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1863.14,-372628.0,I,S
+2019-05-15,Brian T. Olsavsky,Senior Vice President and CFO,-284,,,D,M
+2019-05-15,Brian T. Olsavsky,Senior Vice President and CFO,-1479,,,D,M
+2019-05-15,Brian T. Olsavsky,Senior Vice President and CFO,-1763,1828.48,-3223610.24,D,S
+2019-05-15,Brian T. Olsavsky,Senior Vice President and CFO,284,0.0,0.0,D,M
+2019-05-15,Brian T. Olsavsky,Senior Vice President and CFO,1479,0.0,0.0,D,M
+2019-05-15,Shelley L. Reynolds,Vice President,-61,,,D,M
+2019-05-15,Shelley L. Reynolds,Vice President,-318,,,D,M
+2019-05-15,Shelley L. Reynolds,Vice President,-179,1849.04,-330978.16,D,S
+2019-05-15,Shelley L. Reynolds,Vice President,-100,1829.5,-182950.0,D,S
+2019-05-15,Shelley L. Reynolds,Vice President,-100,1827.94,-182794.0,D,S
+2019-05-15,Shelley L. Reynolds,Vice President,61,0.0,0.0,D,M
+2019-05-15,Shelley L. Reynolds,Vice President,318,0.0,0.0,D,M
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-864,,,D,M
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-2708,,,D,M
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-4500,,,D,M
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-10,1830.06,-18300.6,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-150,1830.96,-274644.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-140,1832.24,-256513.6,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1843.21,-368642.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1850.13,-185013.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1857.06,-185706.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-500,1858.49,-929245.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-205,1860.74,-381451.7,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1862.38,-372476.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-700,1863.24,-1304268.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1866.19,-186619.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1867.24,-373448.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,300,1869.26,560778.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-600,1870.63,-1122378.0,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-701,1871.66,-1312033.66,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-369,1873.25,-691229.25,I,S
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,864,0.0,0.0,I,M
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,2708,0.0,0.0,I,M
+2019-05-15,Jeffrey A. Wilke,CEO Worldwide Consumer,4500,0.0,0.0,I,M
+2019-05-15,David A. Zapolsky,Senior Vice President,-713,,,D,M
+2019-05-15,David A. Zapolsky,Senior Vice President,-1051,,,D,M
+2019-05-15,David A. Zapolsky,Senior Vice President,-274,0.0,0.0,D,G
+2019-05-15,David A. Zapolsky,Senior Vice President,-180,1849.62,-332931.6,D,S
+2019-05-15,David A. Zapolsky,Senior Vice President,-100,1838.13,-183813.0,D,S
+2019-05-15,David A. Zapolsky,Senior Vice President,-100,1832.56,-183256.0,D,S
+2019-05-15,David A. Zapolsky,Senior Vice President,-300,1829.38,-548814.0,D,S
+2019-05-15,David A. Zapolsky,Senior Vice President,-200,1828.1,-365620.0,D,S
+2019-05-15,David A. Zapolsky,Senior Vice President,713,0.0,0.0,D,M
+2019-05-15,David A. Zapolsky,Senior Vice President,1051,0.0,0.0,D,M
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-4500,,,D,M
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-2433,,,D,M
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-1138,,,D,M
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1850.15,-185015.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-224,1849.27,-414236.48,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1846.14,-184614.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1845.28,-369056.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1843.05,-184305.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1841.15,-184115.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1838.15,-183815.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-280,1835.83,-514032.4,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1832.9,-366580.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-524,1832.08,-960009.92,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1830.4,-366080.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-500,1829.41,-914705.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1828.18,-365636.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1826.64,-365328.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1825.41,-365082.0,D,S
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,4500,0.0,0.0,D,M
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,2433,0.0,0.0,D,M
+2019-05-15,Andrew R. Jassy,CEO Amazon Web Services,1138,0.0,0.0,D,M
+2019-05-15,Jeff M. Blackburn,Senior Vice President,-1880,,,D,M
+2019-05-15,Jeff M. Blackburn,Senior Vice President,-1692,,,D,M
+2019-05-15,Jeff M. Blackburn,Senior Vice President,1880,0.0,0.0,D,M
+2019-05-15,Jeff M. Blackburn,Senior Vice President,1692,0.0,0.0,D,M
+2019-05-14,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1846.2,-184620.0,I,S
+2019-05-14,Jeffrey A. Wilke,CEO Worldwide Consumer,-800,1846.64,-1477312.0,I,S
+2019-05-14,Jeffrey A. Wilke,CEO Worldwide Consumer,-500,1848.53,-924265.0,I,S
+2019-05-14,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1849.76,-554928.0,I,S
+2019-05-14,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1851.45,-370290.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1919.75,-191975.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1921.01,-576303.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1922.48,-384496.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-400,1925.17,-770068.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1926.55,-577965.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-600,1927.7,-1156620.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1929.06,-578718.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1931.53,-386306.0,I,S
+2019-05-08,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1932.69,-193269.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-150,1913.94,-287091.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-50,1918.49,-95924.5,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1921.08,-192108.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1929.32,-192932.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1932.4,-193240.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1933.39,-580017.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1934.69,-386938.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-400,1935.87,-774348.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-400,1938.48,-775392.0,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-311,1939.58,-603209.38,I,S
+2019-05-01,Jeffrey A. Wilke,CEO Worldwide Consumer,-389,1940.51,-754858.39,I,S
+2019-04-03,Indra Krishnamurthy Nooyi,Director,-10,1825.05,-18250.5,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1799.47,-179947.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1802.57,-180257.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1803.9,-180390.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-400,1804.57,-721828.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-14,1806.92,-25296.88,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1808.3,-180830.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1809.35,-361870.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1812.82,-362564.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1817.18,-363436.0,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-310,1818.15,-563626.5,I,S
+2019-03-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-276,1819.72,-502242.72,I,S
+2019-03-05,Indra Krishnamurthy Nooyi,Director,-58,1701.56,-98690.48,I,S
+2019-02-28,Jeff M. Blackburn,Senior Vice President,1985,1662.47,3300002.95,D,J
+2019-02-25,Indra Krishnamurthy Nooyi,Director,549,,,D,A
+2019-02-22,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1627.95,-325590.0,I,S
+2019-02-22,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1629.04,-325808.0,I,S
+2019-02-22,Jeffrey A. Wilke,CEO Worldwide Consumer,-530,1630.04,-863921.2,I,S
+2019-02-22,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1631.52,-489456.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1605.35,-160535.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1607.56,-160756.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1608.83,-160883.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-200,1612.42,-322484.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1613.31,-483993.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1615.08,-161508.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-300,1616.62,-484986.0,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-75,1618.74,-121405.5,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-270,1619.92,-437378.4,I,S
+2019-02-21,Jeffrey A. Wilke,CEO Worldwide Consumer,-100,1621.66,-162166.0,I,S
+2019-02-19,Patricia Q. Stonesifer,Director,-1375,1602.0,-2202750.0,D,S
+2019-02-19,Patricia Q. Stonesifer,Director,-250,0.0,0.0,D,G
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,-131,,,D,M
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,-1117,,,D,M
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,-782,,,D,M
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,-2030,1627.86,-3304555.8,D,S
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,131,0.0,0.0,D,M
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,1117,0.0,0.0,D,M
+2019-02-15,Brian T. Olsavsky,Senior Vice President and CFO,782,0.0,0.0,D,M
+2019-02-15,Shelley L. Reynolds,Vice President,-17,,,D,M
+2019-02-15,Shelley L. Reynolds,Vice President,-420,,,D,M
+2019-02-15,Shelley L. Reynolds,Vice President,-100,1627.86,-162786.0,D,S
+2019-02-15,Shelley L. Reynolds,Vice President,-100,1626.56,-162656.0,D,S
+2019-02-15,Shelley L. Reynolds,Vice President,-100,1617.34,-161734.0,D,S
+2019-02-15,Shelley L. Reynolds,Vice President,-137,1615.95,-221385.15,D,S
+2019-02-15,Shelley L. Reynolds,Vice President,17,0.0,0.0,D,M
+2019-02-15,Shelley L. Reynolds,Vice President,420,0.0,0.0,D,M
+2019-02-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-597,,,D,M
+2019-02-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-3513,,,D,M
+2019-02-15,Jeffrey A. Wilke,CEO Worldwide Consumer,30808,0.0,0.0,I,G
+2019-02-15,Jeffrey A. Wilke,CEO Worldwide Consumer,-30808,0.0,0.0,I,G
+2019-02-15,Jeffrey A. Wilke,CEO Worldwide Consumer,597,0.0,0.0,I,M
+2019-02-15,Jeffrey A. Wilke,CEO Worldwide Consumer,3513,0.0,0.0,I,M
+2019-02-15,Jamie S. Gorelick,Director,-207,,,D,M
+2019-02-15,Jamie S. Gorelick,Director,207,0.0,0.0,D,M
+2019-02-15,Wendell P. Weeks,Director,-455,,,D,M
+2019-02-15,Wendell P. Weeks,Director,455,0.0,0.0,D,M
+2019-02-15,David A. Zapolsky,Senior Vice President,-662,,,D,M
+2019-02-15,David A. Zapolsky,Senior Vice President,-1368,,,D,M
+2019-02-15,David A. Zapolsky,Senior Vice President,-300,1627.8,-488340.0,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,-100,1623.17,-162317.0,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,-100,1618.45,-161845.0,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,-115,1616.06,-185846.9,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,-100,1614.6,-161460.0,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,-200,1613.48,-322696.0,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,-100,1611.62,-161162.0,D,S
+2019-02-15,David A. Zapolsky,Senior Vice President,662,0.0,0.0,D,M
+2019-02-15,David A. Zapolsky,Senior Vice President,1368,0.0,0.0,D,M
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-3157,,,D,M
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-952,,,D,M
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-500,1627.91,-813955.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1621.81,-162181.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1617.25,-161725.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-200,1616.55,-323310.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-144,1615.36,-232611.84,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-300,1614.14,-484242.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1612.55,-161255.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1610.75,-161075.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,-100,1609.43,-160943.0,D,S
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,3157,0.0,0.0,D,M
+2019-02-15,Andrew R. Jassy,CEO Amazon Web Services,952,0.0,0.0,D,M
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-2441,,,D,M
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-1668,,,D,M
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-50,1628.86,-81443.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-150,1628.02,-244203.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-100,1626.92,-162692.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-50,1624.65,-81232.5,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-100,1620.16,-162016.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-150,1617.92,-242688.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-200,1616.76,-323352.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-255,1615.58,-411972.9,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-250,1614.24,-403560.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-400,1612.67,-645068.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-150,1610.99,-241648.5,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-50,1609.45,-80472.5,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,-150,1608.14,-241221.0,D,S
+2019-02-15,Jeff M. Blackburn,Senior Vice President,2441,0.0,0.0,D,M
+2019-02-15,Jeff M. Blackburn,Senior Vice President,1668,0.0,0.0,D,M
+2019-02-08,David A. Zapolsky,Senior Vice President,-160,0.0,0.0,D,G
+2019-02-07,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-36,0.0,0.0,D,G
+2019-02-06,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-4011,0.0,0.0,D,G
+2019-02-04,Rosalind Gates Brewer,Director,570,,,D,A
+2019-02-04,Wendell P. Weeks,Director,570,,,D,A
+2018-12-17,Jeffrey A. Wilke,CEO Worldwide Consumer,774,0.0,0.0,I,G
+2018-12-17,Jeffrey A. Wilke,CEO Worldwide Consumer,-774,0.0,0.0,I,G
+2018-11-28,Jeffrey P. Bezos,"Chairman, CEO and President; Director",-39612,0.0,0.0,D,G
