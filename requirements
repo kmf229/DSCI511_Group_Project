@@ -6,3 +6,4 @@ pandas
 wget
 zipfile
 selenium
+plotly
