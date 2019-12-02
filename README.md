@@ -8,6 +8,7 @@ Stock prices have a great deal of interest, (The U.S. stock market is currently 
 
 This project is not to teach the user any financial terms, formulas or theories; it is to determine if a leading indicator can be obtained from social media. Not all social media formats will be selected, just those that offer easy, fast and potentially free access to current trends. 
 
+Lastly, as we are all workings toward increasing our data science understanding, the data is being gathered and formatted to conduct the first of many potential analyses.  Regression analysis: which will examine the influence / correlation of one or more independent parameter(s) on a dependent parameter(s). If a correlation is found, next would be predictive analyses, using predictive modelling, or potentially machine learning methods, to determine if social media is a leading or lagging indicator of stock price performance; and if so what are the constrains around such a model.
 
 This project is a beta release from a DSCI511 Group Team Project; their data dictionary and methods for obtaining information used to try to detect leading indicator of price performance.
 
@@ -33,6 +34,3 @@ This project, when released, will be under an MIT-style license.
 ### Acknowledgements
 The project is built by 3 Drexel MSDS21 first year students that include:  Justin Goheen, Kevin Fitzpatrick,  and Joe Larson.
 
-Be sure to check the project's contributing guide, and you can learn about general guidelines for open source contributions from this free series, How to Contribute to an Open Source Project on GitHub:
-
-https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
